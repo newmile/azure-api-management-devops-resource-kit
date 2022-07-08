@@ -1,0 +1,1 @@
+nuget.exe push -Source "newmile" -ApiKey az -NonInteractive
